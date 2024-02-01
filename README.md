@@ -1,2 +1,2 @@
-# alpha-intern
+# alpha_intern
 programs
